@@ -1,12 +1,47 @@
-## Hi there 👋
+<p align="center"><img width="269" height="74" alt="image" src="https://github.com/user-attachments/assets/00b615e9-3b51-42f8-bd79-d0d368c2a216" />
 
-<!--
+## 1. 프로젝트 개요
+- **프로젝트명** : 제조 AI 특화 스마트공장 구축 지원 사업
+- **프로젝트 기간** : 2025.11.10 ~ 2026.08.09
+- **고객사** : [(주)에스씨](http://www.s-cable.co.kr/ko/main.do)
 
-**Here are some ideas to get you started:**
+## 2. 프로젝트 배경
+- (주)에스씨는 전선 제조 전문기업으로, 기존 MES를 고도화(중간 1단계)달성하여 생산계획, 공정관리, 실적관리 등을 운영
+- 이를 통해 생산 공정의 가시성은 향상되었으나, 설비 고장, 품질 불량, 부품 재고 관리 문제는 여전히 발생
+- 전선 제조는 연속 생산 공정이 많아 설비의 예기치 못한 고장 시 생산 중단과 품질 저하가 즉각적으로 발생하며, 신속한 보전이 어렵고 설비 고장으로 인한 비가동 발생시에는 많은 비용 부담
+- 이러한 현실적인 문제를 제조 AI 특화 스마트공장 구축 지원 사업을 통해 해결
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 3. 프로젝트 목표
+스마트공장 구축 전 | 스마트공장 구축 후
+---|---|
+![image](https://github.com/user-attachments/assets/841b6f76-37c8-4033-b007-bc42599dbcc4) | ![image](https://github.com/user-attachments/assets/60fec0fd-b6ec-4c55-977a-8b2fb855d44e)
+
+**(1) 품질 예측 및 불량 대응**
+- 불량 확률 산출 및 공정 조건별 불량 요인 도출을 통한 불량 조치 방안 도출
+
+**(2) 설비 예지 보전**
+- 설비 진동, 온도, 전류, 선속 등 데이터 기반 이상탐지 및 예지보전
+
+**(3) 공정 최적화**
+- 최적의 골든 레시피 산출을 통한 공정 최적화
+
+**(4) 핵심성과지표(KPI) 개선**
+| **핵심성과지표(KPI)** | **기존** | **목표** | 
+| :---: | :---: | :---: |
+| 공정 불량률 | 5% | 4% | 
+| 설비 가동률 | 85% | 89% | 
+
+## 4. 프로젝트 멤버
+| **이름** | **직급** | **담당 역할** | 
+| :---: | :---: | :---: | 
+| 신재영 | 선임 | - | 
+| 정지혜 | 선임 | - |
+
+## 5. 활용 기술
+| **분류** | **기술** | 
+| :---: | :---: | 
+| FE | - |
+| BE | - | 
+| AI/ML | - | 
+| DB | - | 
+| Infra | - | 
